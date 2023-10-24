@@ -87,4 +87,3 @@ print_array(array, size);
 }
 free(output);
 }
-
